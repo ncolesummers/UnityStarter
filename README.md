@@ -26,7 +26,7 @@ To get started with UnityStarter, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! If you have any improvements or bug fixes, feel free to submit a pull request.
+Contributions are welcome! If you have any improvements or bug fixes, feel free to submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
 ### Contributors
 
