@@ -1,0 +1,7 @@
+{
+	"name": "ThirdPersonControllerMain",
+	"references": [
+		"GUID:75469ad4d38634e559750d17036d5f7c",
+		"GUID:a8141cd2efe378b428063d4259bc61e7"
+	]
+}
