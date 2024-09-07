@@ -47,7 +47,7 @@ jobs:
                 
         with:
                 
-          projectPath: TheMostAwesomeGameEverMade
+          projectPath: .
                 
           targetPlatform: WebGL
                 
@@ -58,6 +58,6 @@ jobs:
                 
           name: Build
               
-          path: TheMostAwesomeGameEverMade/build
+          path: ./build
 
               
